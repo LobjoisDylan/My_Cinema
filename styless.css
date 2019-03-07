@@ -1,0 +1,101 @@
+*
+{
+	margin:0px;
+	padding:0px;
+	font-family: Calibri, sans-serif;
+	color:black;
+}
+
+.wrapper
+{
+	width: 940px;
+	margin: 0 auto;
+	margin-top:40px;
+	border:10px solid black;
+	padding: 80px;
+	background-color: #222;
+}
+
+.cinemarechercher
+{
+	text-align:center;
+	margin-bottom:50px;
+	color:#888;
+}
+
+select 
+{
+    padding:15px;
+}
+
+input
+{
+	margin-top:30px;
+	padding: 10px;
+	background:white;
+	color: white; 
+	border:1px solid black;
+	border-radius: 15px;
+	text-decoration:none;
+	width: 165px;
+	color:black;
+}
+
+select,option
+{
+	width:200px;
+	margin-right:10px;
+}
+
+a 
+{
+	font-size:20px;
+}
+
+.position-0
+{
+	margin-left:240px;
+	margin-bottom:30px;
+}
+
+.position-1
+{
+	width: 200px;
+	margin-left:120px;
+	float:left;
+}
+
+.position-2
+{
+	margin-left: 400px;
+}
+
+.position-3
+{
+	margin-left:180px;
+	margin-top:20px;
+}
+
+.position-4
+{
+	font-size:18px;
+	margin-top:20px;
+	margin-left:220px;
+}
+
+.ajust
+{
+	margin-left:100px;
+}
+
+.film
+{
+	width: 940px;
+	margin:0 auto;
+	border:5px solid black;
+	background-color:#666;
+	text-align:center;
+	margin-bottom:40px;
+	padding:40px;
+	font-weight: bold;
+}
